@@ -36,11 +36,7 @@ This repository open-sources CreatiPoster, an AI-driven graphic design generatio
 
 ## Application
 This system has already been applied in [Pippit AI](http://pippit.capcut.com) for poster generation. 
-
-<!-- 插入 mp4视频 -->
-<video src=".repo/pippit_f2d.mp4" controls width="640" height="360">
-Your browser does not support this video.
-</video>
+![Pippit](.repo/pippit_f2d.gif)
 
 
 
