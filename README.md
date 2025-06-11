@@ -48,13 +48,12 @@ CreatiPoster supports diverse interaction modes, including prompt-only, asset-on
 ### Animated poster
 CreatiPoster can extend static graphic compositions to animated posters. Videos are generated from background layers using an image-to-video model.
 
-<img src=".repo/man.gif" alt="animated" style="width:37%; margin:5px;">
-<img src=".repo/sheep.gif" alt="animated" style="width:27.5%; margin:5px;">
-<img src=".repo/snow.gif" alt="animated" style="width:27.8%; margin:5px;">
-<img src=".repo/sea.gif" alt="animated" style="width:14%; margin:8px;">
-<img src=".repo/cherry.gif" alt="animated" style="width:24.7%; margin:8px;">
-<img src=".repo/cat.gif" alt="animated" style="width:33%; margin:8px;">
-<img src=".repo/face.gif" alt="animated" style="width:13.9%; margin:8px;">
+
+![animated](.repo/man.gif) | ![animated](.repo/sheep.gif) | ![animated](.repo/snow.gif) 
+--- | --- | --- 
+![animated](.repo/sea.gif) | ![animated](.repo/cat.gif) | ![animated](.repo/face.gif) |
+
+
 
 ### Multilingual poster
 CreatiPoster's multilingual capabilities: Despite training data only including Simplified Chinese and English graphic compositions, pre-training and multilingual fine-tuning enable the protocol model to generalize to other languages.
