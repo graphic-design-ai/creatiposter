@@ -18,7 +18,7 @@ This repository open-sources CreatiPoster, an AI-driven graphic design generatio
 <p align="center"> <img src=".repo/teaser.jpg" alt="teaser"/></p>
 
 Example of editing a graphic composition in the CreatiPoster editor. Users can modify text, assets, layout, and style through an intuitive GUI with JSON field controls, enabling professional-level customization.
-<p align="center"> <img src=".repo/editing.png" alt="editing" width="300" /></p>
+<p align="center"> <img src=".repo/editing.png" alt="editing" width="400" /></p>
 
 
 
