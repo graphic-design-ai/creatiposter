@@ -27,9 +27,9 @@ Example of editing a graphic composition in the CreatiPoster editor. Users can m
 [2024/06/13] Our manuscript is now available on <a href="#">arXiv</a>.
 
 ## To-Do List
-- [ ] Release the training/inference code
-- [ ] Release the CreatiPoster-F checkpoint.
-- [ ] Release training dataset and eval set.
+- [ ] Publish the training and inference codebase
+- [ ] Release the CreatiPoster-F model checkpoint
+- [ ] Release the training dataset and evaluation set
 
 
 ## Method
