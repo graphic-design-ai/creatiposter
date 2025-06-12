@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<img src=".repo/creatiposter_logo.png" alt="Logo" width="70"></a>
+<img src=".repo/creatiposter_logo.png" alt="Logo" width="90"></a>
 <h3 align="center">CreatiPoster: Towards Editable and Controllable<br>Multi-Layer Graphic Design Generation</h3>
 <p align="center">
   <a href="https://zhaozhang.net/">Zhao Zhang</a>, Yutao Cheng, Dexiang Hong, <a href="https://dblp.org/pid/210/5108.html">Maoke Yang</a>,<br>
