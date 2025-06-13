@@ -25,7 +25,7 @@ Example of editing a graphic composition in the CreatiPoster editor. Users can m
 
 
 ## News
-[2024/06/13] Our manuscript is now available on <a href="#">arXiv</a>.
+[2024/06/13] Our manuscript is now available on <a href="https://arxiv.org/abs/2506.10890">arXiv</a>.
 
 ## To-Do List
 - [ ] Publish the training and inference codebase
