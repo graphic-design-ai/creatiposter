@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://zhaozhang.net/">Zhao Zhang</a>, Yutao Cheng, Dexiang Hong, <a href="https://dblp.org/pid/210/5108.html">Maoke Yang</a>,<br>
   Gonglei Shi, Lei Ma, Hui Zhang, Jie Shao, and Xinglong Wu<br>
-  <a href="#"><strong>[arXiv 📚]</strong></a> 
+  <a href="https://arxiv.org/abs/2506.10890"><strong>[arXiv 📚]</strong></a> 
   <a href="#"><strong>[Model ⚙️]</strong></a> 
   <a href="#"><strong>[Results 🖼️]</strong></a> 
   <a href="#bib"><strong>[Bibtex 🔗]</strong></a>
